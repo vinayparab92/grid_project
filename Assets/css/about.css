@@ -1,0 +1,44 @@
+.container_about{
+    background-color: #610B0B;
+    /* height: 200px; */
+}
+
+.about_notation{
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.about_slogan{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+}
+
+.feauture_about{
+    color: white;
+    text-align: center;
+    background-color: #08088A;
+    margin: 20px;
+    margin-left: 50px;
+
+}
+
+.feauture_about p {
+    text-align: justify;
+    margin: 20px;
+}
+
+.feauture_about h3{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.image_team{
+    border-radius: 50%;
+}
+
+.key_notation{
+    text-align: center;
+    margin-top: 100px;
+}
